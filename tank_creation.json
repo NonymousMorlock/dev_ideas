@@ -1,0 +1,8 @@
+{
+    "number_of_meters": 2,
+    "tank_capacity": 300000.00,
+    "branch_id": 3,
+    "stock_type": 1,
+    "beginning_stock_balance": 200.00,
+    "current_stock_balance": 200.00
+}
